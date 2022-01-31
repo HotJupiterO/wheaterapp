@@ -1,0 +1,17 @@
+Geocode.xyz: jaroslawrepecki@gmail.com
+APICode: 105511275728868582937x6009
+get API request: https://geocode.xyz/[request]&auth=[your api key]
+eg.:  https://geocode.xyz/warsaw&auth=105511275728868582937x6009&json=1
+
+
+
+
+google geocoding Api key   AIzaSyCKiUs6H1x3mNSpv8nPC5a_xlK-KrNhg40
+
+
+
+mapquesp api   https://developer.mapquest.com/documentation/geocoding-api/address/get/
+                APIKEY      htwx2dUIMt7wIJwFqmaYRxoOG37cTrQ6
+                eg.: http://www.mapquestapi.com/geocoding/v1/address?key=KEY&location=Warszawa,PL
+
+
